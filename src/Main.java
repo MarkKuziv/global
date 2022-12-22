@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         // test commit
-
+        //2
         Car car1 = new Car(1, "BMW", "Gray", 2, 2002, "Wagon");
         Car car2 = new Car(2, "Audi", "Gray", 3, 2005, "Wagon");
         Car car3 = new Car(3, "Audi", "Blue", 4, 2010, "Sedan");
